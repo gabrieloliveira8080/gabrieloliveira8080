@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[Linkedin]: https://www.linkedin.com/in/gabriel-guimar%C3%A3es-b66516211/
 <!--
 
 - 🔭 I’m currently working on ...
@@ -11,4 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Linkedin]: https://www.linkedin.com/in/gabriel-guimar%C3%A3es-b66516211/
+
