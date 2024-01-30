@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Linkedin][Linkedin]
 [Linkedin]: https://www.linkedin.com/in/gabriel-guimar%C3%A3es-b66516211/
 <!--
 
