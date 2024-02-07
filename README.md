@@ -21,10 +21,6 @@ My passion for technology extends to experiencing different work environments, a
 
 I am currently immersing myself in the intricacies of Golang, Kotlin, Flutter for cross-platform development, Firebase for building real-time applications, and mastering the art of containerization with Docker and Kubernetes. Additionally, I'm exploring the versatile offerings of the Google Cloud Platform for scalable and robust solutions.
 
-## 🤝 Let's Connect and Collaborate
-
-I'm eager to connect with fellow developers, share insights, and collaborate on exciting projects. Whether you have innovative ideas, share similar interests, or just want to discuss technology, feel free to reach out. Let's learn, grow, and create together!
-
 ## 🌱 Next Steps
 
 As I continue my educational journey, I am open to new opportunities, challenges, and collaborations. If you're working on something interesting or have ideas to share, I'd love to hear from you. Here's to the exciting possibilities that lie ahead! 🚀
