@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Gabriel, an enthusiastic full-stack development student, embarking on a dynamic journey of learning and exploration. Currently, my focus is on honing my skills in various technologies, including Golang, Kotlin, Flutter, Firebase, server management, Docker, Kubernetes, and Google Cloud products. I am fueled by curiosity and thrive in diverse work environments, constantly seeking new challenges and experiences.
+Hello there! I'm Gabriel, an enthusiastic full-stack development student, embarking on a dynamic journey of learning and exploration. Currently, my focus is on honing my skills in various technologies, including Golang, Flutter, Firebase, server management, Kubernetes, and Google Cloud products. I am fueled by curiosity and thrive in diverse work environments, constantly seeking new challenges and experiences.
 
 ## 🚀 Skills and Technologies
 
