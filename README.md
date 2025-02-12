@@ -16,11 +16,3 @@ Hello there! I'm Gabriel, an enthusiastic full-stack development student, embark
 ## 🌐 Exploring and Embracing Diversity
 
 My passion for technology extends to experiencing different work environments, as I believe diversity fosters creativity and innovation. I am on a mission to broaden my perspective and contribute meaningfully to the ever-evolving world of full-stack development.
-
-## 📚 Learning Journey
-
-I am currently immersing myself in the intricacies of Golang, Kotlin, Flutter for cross-platform development, Firebase for building real-time applications, and mastering the art of containerization with Docker and Kubernetes. Additionally, I'm exploring the versatile offerings of the Google Cloud Platform for scalable and robust solutions.
-
-## 🌱 Next Steps
-
-As I continue my educational journey, I am open to new opportunities, challenges, and collaborations. If you're working on something interesting or have ideas to share, I'd love to hear from you. Here's to the exciting possibilities that lie ahead! 🚀
