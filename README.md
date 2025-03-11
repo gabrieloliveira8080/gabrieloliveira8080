@@ -6,7 +6,7 @@ Hello there! I'm Gabriel, an enthusiastic full-stack development student, embark
 
 ## 🚀 Skills and Technologies
 
-- Full Stack Development
+- Software Development
 - Golang, Kotlin, Flutter
 - Firebase for Real-time Applications
 - Server Management
