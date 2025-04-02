@@ -7,8 +7,6 @@ Hello there! I'm Gabriel, an enthusiastic full-stack development student, embark
 ## 🚀 Skills and Technologies
 
 - Software Development
-- Golang, Kotlin, Flutter
-- Firebase for Real-time Applications
 - Server Management
 - Docker and Kubernetes Orchestration
 - Google Cloud Platform
