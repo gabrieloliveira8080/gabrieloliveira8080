@@ -21,4 +21,4 @@ Estudando: SIEM, Active Directory, hardening, threat detection.
 - FEBRABAN Cyber Academy 2025.
 
 ## Contato
-[LinkedIn](SEU_LINK) · gabriel.gui.dev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gabriel-guimar%C3%A3es-b66516211/) · gabriel.gui.dev@gmail.com
