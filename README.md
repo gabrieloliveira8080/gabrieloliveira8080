@@ -16,9 +16,11 @@ Estudando: SIEM, Active Directory, hardening, threat detection.
 - **Lab Nextcloud self-hosted** — Docker, reverse proxy com TLS, zero portas expostas. *(em breve)*
 
 ## Segurança
-- **177º / 1.006** na Operação Curupira 2.0 — CTF do Exercício Guardião Cibernético 7.0 (2025).
+- Bacharelado em Engenharia de Software @ Descomplica (2025–2029).
+- **Piscine @ 42 Rio** — processo seletivo intensivo de 28 dias em C: algoritmos,
+  estruturas de dados e gerência manual de memória, em regime de eliminação.
 - Fundamentos em Segurança — Hackers do Bem (programa federal).
-- FEBRABAN Cyber Academy 2025.
+- FEBRABAN Cyber Academy 2025..
 
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/gabriel-guimar%C3%A3es-b66516211/) · gabriel.gui.dev@gmail.com
